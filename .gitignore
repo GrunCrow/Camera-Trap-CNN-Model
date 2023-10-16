@@ -175,4 +175,6 @@ cython_debug/
 # Models
 *.h5
 
+# Big Files
+CSVs/clasificaciones/datiZooRedExp.csv
 
