@@ -1,4 +1,4 @@
-# Classification of phototrapping images with a convolutional neural network
+# Classification of camera trap images with a convolutional neural network
 
 ## Abstract
 
